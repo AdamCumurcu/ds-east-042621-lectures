@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-.DS_Store
-
 # Distribution / packaging
 .Python
 build/
@@ -129,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Newly created images
+images/parabola.png
+
+# Mac OS
+.DS_Store
